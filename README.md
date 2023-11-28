@@ -12,5 +12,12 @@ I am proud to present some of the websites I've developed. Each site reflects a 
 | **Ocean to Sky** | [![Ocean to Sky](https://img.shields.io/badge/Visit-Ocean_to_Sky-blue?style=for-the-badge&logo=appveyor)](https://oceantosky.com/) |
 
 
-Below is the link to my fitbit gallery profile and published clockfaces:
-https://gallery.fitbit.com/developer/54cfb164-61bb-4a1a-80f9-028b16a44679
+---
+
+## ⌚ My Fitbit Gallery Profile
+
+Explore my collection of published clockfaces on Fitbit:
+
+[![Fitbit Gallery](https://img.shields.io/badge/View-My_Fitbit_Clockfaces-green?style=for-the-badge&logo=fitbit)](https://gallery.fitbit.com/developer/54cfb164-61bb-4a1a-80f9-028b16a44679)
+
+---
