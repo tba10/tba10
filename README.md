@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**tba10/tba10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Portfolio of Websites
 
@@ -18,4 +14,3 @@ Here are some of the websites I've built:
 
 - **Albidaa Flora**: A beautiful display of Albidaa Flora's floral arrangements and services.
   - [Visit Albidaa Flora](https://www.albidaaflora.com)
-
