@@ -24,7 +24,6 @@ Explore my collection of published clockfaces on Fitbit:
 
 ## 📱 Published Apps
 
-Here are the apps I've developed that are available on app stores.
 
 | App Name | Availability | Link |
 | -------- | ------------ | ---- |
