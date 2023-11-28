@@ -3,14 +3,19 @@
 <!--
 **tba10/tba10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Portfolio of Websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the websites I've built:
+
+- **Albidaa Group**: A comprehensive showcase of the Albidaa Group's services and portfolio.
+  - [Visit Albidaa Group](https://www.albidaagroup.com)
+
+- **Albidaa**: An elegant presentation of Albidaa's unique offerings.
+  - [Visit Albidaa](https://www.albidaa.com)
+
+- **Calist Pro**: A dynamic site for fitness and training enthusiasts.
+  - [Visit Calist Pro](https://www.calistpro.com)
+
+- **Albidaa Flora**: A beautiful display of Albidaa Flora's floral arrangements and services.
+  - [Visit Albidaa Flora](https://www.albidaaflora.com)
+
