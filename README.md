@@ -26,8 +26,10 @@ Explore my collection of published clockfaces on Fitbit:
 ## 📱 Published Apps
 
 
-| App Name | Availability | Link |
-| -------- | ------------ | ---- |
-| **Active Club** | Available on App Store and Play Store | [![Active Club](https://img.shields.io/badge/Download-Active_Club-green?style=for-the-badge&logo=appveyor)](https://www.activeclub.qa/#download_app) |
+| App Name | Availability | Link | Description |
+| -------- | ------------ | ---- | ------------ |
+| **Active Club** | Available on App Store and Play Store | [![Active Club](https://img.shields.io/badge/Download-Active_Club-green?style=for-the-badge&logo=appveyor)](https://www.activeclub.qa/#download_app) | Built with React Native: Ensures a smooth and responsive user interface.
+Capillary APIs Integration: Offers efficient and seamless functionality.
+User-Friendly Design: Intuitive navigation tailored to user needs. |
 
 ---
