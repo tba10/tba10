@@ -10,6 +10,7 @@ I am proud to present some of the websites I've developed. Each site reflects a 
 | **Calistpro** | [![Calistpro](https://img.shields.io/badge/Visit-Calist_Pro-blue?style=for-the-badge&logo=appveyor)](https://www.calistpro.com) |
 | **Gallery Five Furniture** | [![Gallery Five Furniture](https://img.shields.io/badge/Visit-Gallery_Five_Furniture-blue?style=for-the-badge&logo=appveyor)](https://galleryfivefurniture.com/) |
 | **Ocean to Sky** | [![Ocean to Sky](https://img.shields.io/badge/Visit-Ocean_to_Sky-blue?style=for-the-badge&logo=appveyor)](https://oceantosky.com/) |
+| **AbdulRashid** | [![AbdulRashid](https://img.shields.io/badge/Visit-AbdulRashid?style=for-the-badge&logo=appveyor)](https://abdulrashid.com/) |
 | **Sports Corner** | [![Sports Corner](https://img.shields.io/badge/Visit-Sports_Corner-blue?style=for-the-badge&logo=appveyor)](https://prod.sportscorner.qa/) |
 
 ---
